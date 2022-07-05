@@ -420,5 +420,16 @@
     "skillLevel": "beginner",
     "lang": "en",
     "publishDate": "01/05/2021"
+  },
+   {
+    "url": "https://ankr.hashnode.dev/deploy-and-mint-a-cryptokitties-like-nft-with-erc-721-smart-contract",
+    "title": "Deploy and Mint a CryptoKitties-Like NFT with ERC-721 Smart Contract on Optimism",
+    "description": "Tutorial on how to create an ERC721 Smart Contract and deploy it on Optimism Kovan Testnet",
+    "author": "Krinza Momin",
+    "authorGithub": "https://github.com/kaymomin",
+    "tags": ["solidity", "smart-contracts","erc-721","NFT","etherscan", "openzeppelin","ethersjs"],
+    "skillLevel": "beginner",
+    "lang": "en",
+    "publishDate": "29/06/2022"
   }
 ]
